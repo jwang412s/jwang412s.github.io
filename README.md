@@ -1,99 +1,60 @@
 ---
-title: "About"
+title: "CV"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Resume
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Jerry Wang
+linkedin.com/in/jerry--wang || 604-782-2361 || jerry.wang@ubc.ca||https://jwang412s.github.io/
 
-## Features
+EDUCATION
+Bachelor of Science, Major in Cognitive Systems Expected Graduation: May 2024
+The University of British Columbia
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+Coursework: Software Construction, Data Structures and Algorithms, Designing Cognitive Systems,
+Research Methods in Cognitive Systems, Relational Databases and Design, Applied Machine Learning.
+Cloud Computing
 
-## Based on
+TECHNICAL SKILLS
+Languages: Java, Python, C#, SQL, html, css, php
+Technologies: Unity, Unreal Engine, Maya, MotionBuilder, Peelsolve, Git, Trello, Miro
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+WORK EXPERIENCE
+Sawmill Studios Inc. | Technical Operations Intern
+May 2023 – Present
+● Contributed to approximately 60% of the post-production for motion capture data collected for
+Research and Development projects using Maya and PeelSolve for data cleaning and solving.
+● Authored the documentation overviewing markered, non-markered, and IMU based motion capture.
+● Operated a 24 Camera Optitrack motion capture system using Motive and PeelCapture.
+● Operation and maintenance of Rokoko IMU motion Capture suits for markerless motion capture for
+portable capture sessions.
+● Retargeted and Cleaned Rokoko motion capture data in MotionBuilder.
+● Fixed all existing hydration bugs in website prototype built on next.js framework and implemented
+loading of FBX data library on the webpage using FBX Loader from Three.js library.
 
-## Installation (jekyll-remote-theme method)
+UBC Emerging Media Lab | Software Developer
+May 2023 – Present
+● Implemented animation state machines to handle body and face animations of metahumans for
+game events in Unreal Engine 5.
+● Motion Captured body and face animations using PoseCam and Livelink and retargeted and
+post-processed the data for Metahumans.
+● Debugged and fixed runtime conflicts for OpenXR that reduced instances of crashes by 90%.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+UBC Brain Attention & Reality Lab | Software Developer
+June 2022 – May 2023
+● Designed and developed projects for virtual reality studies for the Oculus (Meta Quest) and Vive Pro
+using SteamVR plugin on Unity and C#.
+● Operation of a 12 Camera Optitrack motion capture system using Motive, and crafted a facial
+capture helmet to capture facial motions using an Iphone with the Livelink app.
+● Configured Live Streaming of motion capture data from Motive to Unreal Engine using Livelink and
+Optitrack Unreal plugin for characters following Unreal’s skeleton hierarchy.
+● Performed black box, white box, and regression testing for programs built for the lab’s SMI
+eye-tracking modified HTC Vive headsets.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+PAPER CONTRIBUTIONS
+UBC| Virtual Reality Development and Research Study Design
+● Pazhoohi, F., Aoki, K., Wang, J. & Kingstone, A. (forthcoming). Comparing faces in 2D vs 3D.
+● Pazhoohi, F., Wang, J. & Kingstone, A. (under review). Comfort Distance for Online and In-person
+Interactions: A Virtual Reality Study.
