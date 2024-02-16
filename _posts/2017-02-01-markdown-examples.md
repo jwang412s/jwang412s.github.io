@@ -21,5 +21,9 @@ Below are some of the motions I've cleaned and retargeted for some R&D projects 
 
 
 
+**default Mixamo model being used for motion demo purposes
+
+
+
 
 
