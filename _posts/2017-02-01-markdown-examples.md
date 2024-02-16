@@ -6,12 +6,21 @@ layout: post
 Below are some of the motions I've cleaned and retargeted for some R&D projects I've been a part of:
 
 <video width="560" height="315" controls>
-  <source src="https://jwang412s.github.io/assets/109396990/98001e11-b90b-4469-8cf5-837909883940" type="video/mp4">
+  <source src="https://github.com/jwang412s/jwang412s.github.io/assets/109396990/ff7df7d1-f3dd-4a19-b770-5aac8296ead8" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="560" height="315" controls>
-  <source src="https://jwang412s.github.io/assets/109396990/1f737fd4-62cf-4db5-acce-d697a62bfedf" type="video/mp4">
+  <source src="https://github.com/jwang412s/jwang412s.github.io/assets/109396990/e76ceb61-2d42-4778-9302-56df9ab726fd" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+
+
+Uploading Nina_sommersault.mp4…
+
+
+
+
 
