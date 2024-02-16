@@ -4,8 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-# Resume
-
 **Jerry Wang**  
 [linkedin.com/in/jerry--wang](https://www.linkedin.com/in/jerry--wang)  
 📞 604-782-2361  
