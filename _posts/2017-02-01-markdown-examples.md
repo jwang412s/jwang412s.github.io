@@ -18,7 +18,6 @@ Below are some of the motions I've cleaned and retargeted for some R&D projects 
 
 
 
-Uploading Nina_sommersault.mp4…
 
 
 
